@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @sparsh-sharma-08
-- 👀 I’m interested in Website Development 
-- 🌱 I’m currently learning Java-Script 
+- 👋 Hi, I’m Sparsh Sharma
+- 👀 I’m currently learning Full Stack Website Development  
 - 💞️ I’m open for collaborations on my social media or email 
 - 📫 Instagram -> sparsh0806 ..... Email -> sparshsharma0825@gmail.com
 
