@@ -52,19 +52,16 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/sparsh-sharma/deepfake-detection">
-      <img src="https://github.com/sparsh-sharma/assets/raw/main/deepfake-preview.png" alt="Deepfake Detection" width="200px" />
       <br /><strong>Deepfake Detection</strong></a>
       <p>Real-time AI web app to detect media manipulation</p>
     </td>
     <td align="center"><a href="https://github.com/sparsh-sharma/pantry-organizer">
-      <img src="https://github.com/sparsh-sharma/assets/raw/main/pantry-preview.png" alt="Pantry Organizer" width="200px" />
       <br /><strong>Pantry Organizer</strong></a>
       <p>Inventory system with barcode & expiry tracking</p>
     </td>
     <td align="center"><a href="https://github.com/sparsh-sharma/news-weather-tracker">
-      <img src="https://github.com/sparsh-sharma/assets/raw/main/news-weather-preview.png" alt="News & Weather" width="200px" />
-      <br /><strong>News & Weather Tracker</strong></a>
-      <p>Live updates using public APIs</p>
+      <br /><strong>APMC Trade Data</strong></a>
+      <p> a Python-based Selenium automation script designed to scrape APMC trade data from the offical Website</p>
     </td>
   </tr>
 </table>
@@ -74,21 +71,26 @@
 
 ## 🔮 Skills & Progress
 
-<p>Python       [████████░░░░░░] 70%</p>
-<p>JavaScript   [███████░░░░░░░] 60%</p>
-<p>React        [██████░░░░░░░░] 50%</p>
-<p>SQL & NoSQL  [███████░░░░░░░] 65%</p>
-<p>Data Science [█████░░░░░░░░░] 40%</p>
+<p>Python         [███████████░] 90%</p>
+<p>JavaScript     [██████████░░] 80%</p>
+<p>SQL & NoSQL    [██████████░░] 80%</p>
+<p>Data Science   [████████░░░░] 70%</p>
+<p>React          [███████░░░░░] 60%</p>
+<p>C++            [████████░░░░░] 70%</p>
+<p>Java           [███████░░░░░] 60%</p>
+<p>HTML & CSS     [██████████░░] 80%</p>
+<p>Node.js        [█████████░░░] 75%</p>
+<p>AWS            [███████░░░░░] 60%</p>
+<p>Git & GitHub   [██████████░░] 80%</p>
 
 ---
 
 ## 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/sparsh-sharma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/sparsh08/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:sparshsharma@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
-  <a href="https://github.com/sparsh-sharma"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://sparshsharma.dev"><img src="https://img.shields.io/badge/Portfolio-282A36?style=for-the-badge&logo=google-chrome" alt="Portfolio" /></a>
+  <a href="https://github.com/sparsh-sharma-08"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
 </p>
 
 ---
