@@ -17,7 +17,7 @@
 - 🌱 I’m exploring advanced **React** animations and **UI/UX design** trends
 - 👯 I’m open to collaborating on **open-source projects**
 - 💬 Ask me about **Python**, **Java**, **MERN stack**, and **Cloud**
-- 📫 How to reach me: sparshsharma@email.com
+- 📫 How to reach me: sparshsharma0825@gmail.com
 - ⚡ Fun fact: I solve Rubik's cubes in under a minute!
 
 ---
