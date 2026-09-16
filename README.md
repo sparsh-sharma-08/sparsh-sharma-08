@@ -1,98 +1,235 @@
-<!-- Banner -->
+<!-- Hero Banner -->
+
 <p align="center">
-  <img src="https://github.com/sparsh-sharma/sparsh-sharma/blob/main/assets/banner.gif" alt="banner" />
+  <img src="https://github.com/sparsh-sharma/sparsh-sharma/blob/main/assets/banner.gif" alt="Sparsh Sharma Banner" />
 </p>
 
-<h1 align="center">Hey there, I'm Sparsh Sharma 👋</h1>
+<h1 align="center">Hey, I'm Sparsh Sharma 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00A8E8&center=true&vCenter=true&width=550&lines=Building+Elegant+Solutions;Coding+with+Passion;Designing+with+Style" alt="Dynamic Typing" />
+  <strong>Computer Science Student • Software Developer • AI/ML Enthusiast</strong>
 </p>
 
----
-
-## 🌟 About Me
-
-- 🔭 I’m currently working on ✨**Deepfake Detection System**✨
-- 🌱 I’m exploring advanced **React** animations and **UI/UX design** trends
-- 👯 I’m open to collaborating on **open-source projects**
-- 💬 Ask me about **Python**, **Java**, **MERN stack**, and **Cloud**
-- 📫 How to reach me: sparshsharma0825@gmail.com
-- ⚡ Fun fact: I solve Rubik's cubes in under a minute!
-
----
-
-## 🧰 My Tech Stack & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,nodejs,express,mongodb,react,git,github,linux,vscode,figma,aws" />
-</div>
-
----
-
-## 📊 GitHub Stats & Trophies
-
-<div align="center">
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sparsh-sharma&show_icons=true&theme=radical&layout=compact&hide_border=true&count_private=true" />
-  <!-- Top Langs -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparsh-sharma&layout=compact&theme=radical&hide_border=true" />
-</div>
-
 <p align="center">
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=sparsh-sharma&theme=onedark&no-frame=true&column=4&margin-w=10&margin-h=10" />
+  <a href="https://github.com/sparsh-sharma">
+    <img src="https://img.shields.io/github/followers/sparsh-sharma?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/sparsh-sharma">
+    <img src="https://img.shields.io/github/stars/sparsh-sharma?label=Stars&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/sparsh08/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
-## 🏗️ Featured Projects
+## 👨‍💻 About Me
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/sparsh-sharma/deepfake-detection">
-      <br /><strong>Deepfake Detection</strong></a>
-      <p>Real-time AI web app to detect media manipulation</p>
-    </td>
-    <td align="center"><a href="https://github.com/sparsh-sharma/pantry-organizer">
-      <br /><strong>Pantry Organizer</strong></a>
-      <p>Inventory system with barcode & expiry tracking</p>
-    </td>
-    <td align="center"><a href="https://github.com/sparsh-sharma/news-weather-tracker">
-      <br /><strong>APMC Trade Data</strong></a>
-      <p> a Python-based Selenium automation script designed to scrape APMC trade data from the offical Website</p>
-    </td>
-  </tr>
-</table>
-</div>
+I'm a **Computer Science student** focused on building practical software and AI-powered systems.
+
+Currently, I'm strengthening my foundations in **Data Structures & Algorithms with Java** while continuing to build projects across **AI/ML, backend development, and the MERN stack**.
+
+* 🔭 Currently working on **Deepfake Detection & AI/ML projects**
+* 🧠 Actively practicing **DSA in Java** and preparing for software engineering interviews
+* 🤖 Interested in **Artificial Intelligence, Machine Learning, RAG & LLM systems**
+* 🌐 Building applications using **MERN, FastAPI and modern backend technologies**
+* 🔬 Working on research around **early hallucination detection in Large Language Models**
+* 🛠️ Interested in building products that combine **software + AI**
+* 👯 Open to collaborating on interesting **open-source and AI projects**
+* 📚 Always learning, experimenting, and improving
+* ⚡ Fun fact: I solve Rubik's cubes in under a minute!
 
 ---
 
-## 🔮 Skills & Progress
+## 🧠 What I'm Working On
 
-<p>Python         [███████████░] 90%</p>
-<p>JavaScript     [██████████░░] 80%</p>
-<p>SQL & NoSQL    [██████████░░] 80%</p>
-<p>Data Science   [████████░░░░] 70%</p>
-<p>React          [███████░░░░░] 60%</p>
-<p>C++            [████████░░░░░] 70%</p>
-<p>Java           [███████░░░░░] 60%</p>
-<p>HTML & CSS     [██████████░░] 80%</p>
-<p>Node.js        [█████████░░░] 75%</p>
-<p>AWS            [███████░░░░░] 60%</p>
-<p>Git & GitHub   [██████████░░] 80%</p>
+```text
+DSA & Problem Solving       ████████████████░░░░
+Java                        ███████████████░░░░░
+Python                      █████████████████░░░
+AI / Machine Learning       ███████████████░░░░░
+Backend Development         ███████████████░░░░░
+MERN Stack                  █████████████░░░░░░░
+Database Systems             ███████████████░░░░░
+Git & GitHub                 █████████████████░░░
+```
+
+> These are focus areas rather than absolute skill percentages — I'm continuously improving across them.
 
 ---
 
-## 🔗 Let's Connect
+## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sparsh08/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:sparshsharma@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
-  <a href="https://github.com/sparsh-sharma-08"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+**Libraries & Tools:**
+NumPy • OpenCV • Pandas • Scikit-learn • Hugging Face • FAISS • LangChain
+
+### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite" />
+</p>
+
+### Tools & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,aws" />
 </p>
 
 ---
 
-<p align="center"><em>"Design is not just what it looks like — it's how it works."</em></p>
+## 🚀 Featured Projects
+
+### 🤖 AI Job Application System
+
+**Python • FastAPI • PostgreSQL • LangChain • OpenAI API • Playwright • Docker • Streamlit**
+
+An AI-powered platform designed to automate the repetitive parts of job searching and applications.
+
+* Scrapes and processes job listings
+* Uses LLMs to evaluate job relevance
+* Generates tailored, ATS-oriented resumes and cover letters
+* Provides an application workflow through a web interface
+
+---
+
+### 🕵️ Deepfake Detection System
+
+**PyTorch • EfficientNet • Xception • OpenCV • Face Detection • Chrome Extension**
+
+An AI-powered system for detecting manipulated images and videos.
+
+* Image and video deepfake detection
+* Face detection and preprocessing pipeline
+* Deep-learning based classification
+* Web application for real-time inference
+* Chrome extension integration
+
+---
+
+### 📚 Offline RAG Education Platform
+
+**Python • Hugging Face • FAISS • LangChain • React • React Native**
+
+An offline-first educational question-answering platform designed for environments with limited internet connectivity.
+
+* Retrieval-Augmented Generation architecture
+* Semantic document retrieval using FAISS
+* Large-scale document indexing
+* Cross-platform React / React Native interface
+* Focus on reliable, context-grounded answers
+
+---
+
+### 🔬 Pre-Generation Hallucination Detection
+
+**LLMs • Hidden States • Attention • Logit Uncertainty • Semantic Entropy**
+
+Research work exploring whether hallucinations in Large Language Models can be detected **before the model finishes generating an answer**.
+
+The approach combines multiple internal and output-level signals to identify potentially unreliable generations at early checkpoints.
+
+---
+
+### 🌾 APMC Trade Data Scraper
+
+**Python • Selenium • Web Scraping**
+
+A Python automation system for collecting agricultural market/trade data from an official APMC website.
+
+* Selenium-based browser automation
+* Dynamic-content handling
+* Structured data extraction
+* Automated collection and processing
+
+---
+
+## 💻 DSA Journey
+
+Currently focused on **Data Structures & Algorithms using Java**.
+
+Areas I'm actively practicing:
+
+* Arrays & Strings
+* Hashing
+* Two Pointers
+* Sliding Window
+* Linked Lists
+* Stacks & Queues
+* Binary Search
+* Trees
+* Heaps / Priority Queues
+* Recursion & Backtracking
+* Graphs
+* Dynamic Programming
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sparsh-sharma?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sparsh-sharma&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparsh-sharma&layout=compact&theme=radical&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sparsh-sharma&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+```text
+✓ Strengthen DSA & problem-solving skills
+✓ Build production-quality software
+✓ Deepen Java & backend development
+✓ Build practical AI/ML systems
+✓ Improve system design & CS fundamentals
+✓ Contribute to open-source
+→ Prepare for software engineering internships & placements
+```
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sparsh08/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sparshsharma0825@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/sparsh-sharma">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>"Build things. Break things. Learn. Build better."</em>
+</p>
