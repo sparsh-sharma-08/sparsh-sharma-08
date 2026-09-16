@@ -3,7 +3,10 @@
 <p align="center">
   <img src="https://github.com/sparsh-sharma/sparsh-sharma/blob/main/assets/banner.gif" alt="Sparsh Sharma Banner" />
 </p>
-
+<img src="https://github.com/sparsh-sharma-08.png"
+     width="160"
+     style="border-radius:50%;"
+     alt="Sparsh Sharma" />
 <h1 align="center">Hey, I'm Sparsh Sharma 👋</h1>
 
 <p align="center">
