@@ -1,17 +1,33 @@
 <!-- Hero Banner -->
 
-<p align="center">
-  <img src="https://github.com/sparsh-sharma/sparsh-sharma/blob/main/assets/banner.gif" alt="Sparsh Sharma Banner" />
-</p>
+<table>
+<tr>
+<td width="25%" align="center">
+
 <img src="https://github.com/sparsh-sharma-08.png"
      width="160"
      style="border-radius:50%;"
      alt="Sparsh Sharma" />
-<h1 align="center">Hey, I'm Sparsh Sharma 👋</h1>
 
-<p align="center">
-  <strong>Computer Science Student • Software Developer • AI/ML Enthusiast</strong>
+</td>
+
+<td width="75%">
+
+<h1>Hey, I'm Sparsh Sharma 👋</h1>
+
+<p>
+<strong>Computer Science Student • Software Developer • AI/ML Enthusiast</strong>
 </p>
+
+<p>
+I'm focused on building practical software and AI-powered systems.
+Currently strengthening my DSA skills with Java while working across
+AI/ML, backend development, and the MERN stack.
+</p>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/sparsh-sharma">
