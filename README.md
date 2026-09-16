@@ -160,32 +160,21 @@ A Python automation system for collecting agricultural market/trade data from an
 * Structured data extraction
 * Automated collection and processing
 
----
-
 ## 💻 DSA Journey
 
-Currently focused on **Data Structures & Algorithms using Java**.
+I'm currently building my **Data Structures & Algorithms** foundation using Java,
+with a focus on understanding problem-solving patterns and writing efficient solutions.
 
-Areas I'm actively practicing:
+### Currently Practicing
 
-* Arrays & Strings
-* Hashing
-* Two Pointers
-* Sliding Window
-* Linked Lists
-* Stacks & Queues
-* Binary Search
-* Trees
-* Heaps / Priority Queues
-* Recursion & Backtracking
-* Graphs
-* Dynamic Programming
+`Arrays` · `Strings` · `Hashing` · `Two Pointers` · `Sliding Window`  
+`Linked Lists` · `Stacks` · `Queues` · `Binary Search` · `Trees` · `Heaps`
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sparsh-sharma?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/sparsh0806/">
+    <img src="https://leetcard.jacoblin.cool/sparsh0806?theme=dark&font=Baloo" />
+  </a>
 </p>
-
----
 
 ## 📊 GitHub Activity
 
