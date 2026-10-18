@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=Sparsh%20Sharma&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=220&section=header&text=Sparsh%20Sharma&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=%E2%9C%89%20sparshsharma0825%40gmail.com%20%C2%B7%20%F0%9F%94%97%20linkedin.com/in/sparsh08&descSize=16&descAlignY=58&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
 **CS Final Year · AI/ML · Building things that think**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sparsh08/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sparshsharma0825@gmail.com)
+[✉ sparshsharma0825@gmail.com](mailto:sparshsharma0825@gmail.com) · [🔗 linkedin.com/in/sparsh08](https://www.linkedin.com/in/sparsh08/)
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/sparsh0806/)
 
 </div>
