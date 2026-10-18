@@ -4,7 +4,7 @@
 
 **CS Final Year · AI/ML · Building things that think**
 
-[✉ sparshsharma0825@gmail.com](mailto:sparshsharma0825@gmail.com) · [🔗 linkedin.com/in/sparsh08](https://www.linkedin.com/in/sparsh08/)
+
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/sparsh0806/)
 
